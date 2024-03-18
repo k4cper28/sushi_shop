@@ -1,0 +1,30 @@
+[{
+    "nazwa": "maly zestaw",
+    "cena": "69.99",
+    "profileURL": "zdjecia/zestawsmall.png"
+},
+    {
+        "nazwa": "średni zestaw",
+        "cena": "129.99",
+        "profileURL": "zdjecia/zestawmedium.png"
+    },
+    {
+        "nazwa": "duży zestaw",
+        "cena": "169.99",
+        "profileURL": "zdjecia/zestawduzy.png"
+    },
+    {
+        "nazwa": "łosoś zestaw",
+        "cena": "129.99",
+        "profileURL": "zdjecia/zestaw_losos.png"
+    },
+    {
+        "nazwa": "krewetka zestaw",
+        "cena": "139.99",
+        "profileURL": "zdjecia/zestaw_krewetka.png"
+    },
+    {
+    "nazwa": "tori zestaw",
+    "cena": "119.99",
+    "profileURL": "zdjecia/zestaw_tori.png"
+}]
